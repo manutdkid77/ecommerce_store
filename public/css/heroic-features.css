@@ -1,0 +1,16 @@
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top.*/
+}
+
+.hero-spacer {
+    margin-top: 50px;
+}
+
+.hero-feature {
+    margin-bottom: 30px;
+}
+
+footer {
+    margin: 50px 0;
+}
